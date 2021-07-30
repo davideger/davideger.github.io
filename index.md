@@ -1,0 +1,29 @@
+---
+layout: page
+title: home
+---
+
+# David Eger
+## Some things you should know
+
+* My name is David
+* I liked [MikeInnes](http://mikeinnes.github.io/)'s site so much I copied his true statements here:
+* I know very little about anything (but I'm working on it)
+* As a programmer, I spend most of my time writing pieces of text which solve problems
+  * Although the problems are often caused by other pieces of text, which were often also written by me
+
+## Some things I worked on
+
+* [Google Travel](https://google.com/travel)
+* [Google Books](http://books.google.com/)
+* [Google Maps](https://maps.google.com/)
+* [Google Shopping](https://google.com/shopping)
+* some [other things](https://davideger.github.io/cv)
+
+## Some things you can read
+
+<ul>
+<li>
+  <a href="blog/mourning_moore">Mourning Moore, or: Is that sexy RTX 3090 really worth $3000?</a> (2021-05-15)
+</li>
+</ul>
