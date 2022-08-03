@@ -22,8 +22,6 @@ title: home
 
 ## Some things you can read
 
-<ul>
-<li>
-  <a href="blog/mourning_moore">Mourning Moore, or: Is that sexy RTX 3090 really worth $3000?</a> (2021-05-15)
-</li>
-</ul>
+* May 2021: [Mourning Moore, or: Is that sexy RTX 3090 really worth $3000?](blog/mourning_moore)
+* Aug 2021: [Microbenchmarks: how that speedy library may just break your heart](blog/microbenchmarks/heartbreak)
+* Mar 2022: [Setting up Taildrop on Linux](blog/taildrop_on_linux)
