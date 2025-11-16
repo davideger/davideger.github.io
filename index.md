@@ -27,3 +27,6 @@ title: home
 * Mar 2022: [Setting up Taildrop on Linux](blog/taildrop_on_linux)
 * May 2024: [A GPT of One's Own](blog/a_gpt_of_ones_own)
 
+## Some little projects
+
+* November 2025: [A Vocal Monitor for Singing](blog/projects/monitor)
