@@ -30,3 +30,4 @@ title: home
 ## Some little projects
 
 * November 2025: [A Vocal Monitor for Singing](blog/projects/monitor)
+* July 2026: [Heart Rate Explorer](blog/projects/heart_rate_explorer) [README](https://github.com/davideger/heart-rate-explorer/blob/main/README.md) *NB: you'll need to clone and run your own -- I don't whitelist your gmail and I don't want to deal with being audited for accessing health data*
